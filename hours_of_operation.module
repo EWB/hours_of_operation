@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Hours of Operation feature.
+ */
+
+include_once 'hours_of_operation.features.inc';
